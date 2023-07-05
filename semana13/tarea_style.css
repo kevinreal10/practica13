@@ -1,0 +1,12 @@
+.caja{
+    position: top;
+    background-color: rgb(46, 253, 74);
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 50px auto;
+    text-align: center;
+
+}

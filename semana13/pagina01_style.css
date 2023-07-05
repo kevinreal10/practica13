@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+@font-face {
+    font-family: 'DancingScript';
+    src :url ('../fuente/Alegreya-Italic-VariableFont_wght.ttf');
+}
+@font-face{
+    font-family: 'Brewery';
+    src: url('');
+}
+    
+    
+#titulo1 {
+    text-shadow: 5px 5px 5px #aaa;
+    font-family: 'Courier New', Courier, monospace;
+}
+#titulo2 {
+    text-shadow: -5px -5px 5px #aaa;
+    font-family: 'Roboto', sans-serif;
+}
+#titulo3 {
+    text-shadow: 3px 3px 5px #f00,
+        6px 6px 5px #0f0,
+        9px 9px 5px #00f;
+        font-family: 'Caprasimo', cursive;
+}
+h1 {
+    font-size: 50px;
+}
+body {
+    background: white;
+    margin: 20px;
+}
